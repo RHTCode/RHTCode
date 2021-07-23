@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RHTCode
+- 👋 Hi, I’m @RHTCode (Rahat Hussain Thaheem)
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning WordPress
 - 💞️ I’m looking to collaborate on GitHun, Facebook, Twitter, Fiverr and Upwork
